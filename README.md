@@ -20,7 +20,7 @@ Python 3.8+ and the following packages:
 pip install torch torchvision safetensors huggingface_hub scikit-learn scipy tqdm pandas numpy
 ```
 
-A **GPU is strongly recommended** — feature extraction across 360 models is slow on CPU. The notebook auto-detects CUDA and falls back to CPU if unavailable.
+A **GPU is strongly recommended** : feature extraction across 360 models is slow on CPU. The notebook auto-detects CUDA and falls back to CPU if unavailable.
 
 ---
 
@@ -30,7 +30,7 @@ A **GPU is strongly recommended** — feature extraction across 360 models is sl
 
 1. Open [Google Colab](https://colab.research.google.com/) and upload `Assignment_2.ipynb` via **File → Upload notebook**.
 2. Set the runtime to GPU: **Runtime → Change runtime type → T4 GPU**.
-3. Run the first cell — it will install all dependencies automatically.
+3. Run the first cell : it will install all dependencies automatically.
 4. Run all remaining cells in order (**Runtime → Run all**).
 5. The output file `submission.csv` will be saved in the Colab working directory (`/content/`). Download it via the Files panel on the left.
 
@@ -39,7 +39,7 @@ A **GPU is strongly recommended** — feature extraction across 360 models is sl
 > from google.colab import drive
 > drive.mount("/content/drive")
 > ```
-> The notebook already contains this snippet — just uncomment it in the config cell.
+> The notebook already contains this snippet , just uncomment it in the config cell.
 
 ### Option 2 — Local Jupyter
 
