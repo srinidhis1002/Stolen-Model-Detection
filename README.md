@@ -2,7 +2,6 @@
 
 **Course:** Trustworthy Machine Learning 2026  
 **Team Members:** Mahitha Senthilnathan · Srinidhi Sreenivasan 
-
 **Matriculation Numbers:** 7085415 · 7086703  
 **CMS Team ID:** 82(LXXX) 
 
