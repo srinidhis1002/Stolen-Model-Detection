@@ -1,10 +1,9 @@
 # Stolen-Model-Detection
 
 **Course:** Trustworthy Machine Learning 2026  
-**Team Members:** [Student Name 1] · [Student Name 2]  
-**Matriculation Numbers:** [XXXXXXX] · [XXXXXXX]  
-**CMS Team ID:** [XXXXXXX]  
-**Public Leaderboard Score:** 0.685185
+**Team Members:** Mahitha Senthilnathan · Srinidhi Sreenivasan 
+**Matriculation Numbers:** 7085415 · 7086703  
+**CMS Team ID:** 82(LXXX) 
 
 ---
 
